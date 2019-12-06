@@ -1,0 +1,13 @@
+Minecraft Origin Server/logs
+Minecraft Origin Server/crash-reports
+Minecraft Origin Server/world
+Minecraft Origin Server/.mixin.out
+
+Minecraft Origin Server/config/sponge
+
+Minecraft Origin Server/banned-ips.json
+Minecraft Origin Server/banned-players.json
+Minecraft Origin Server/ops.json
+Minecraft Origin Server/whitelist.json
+Minecraft Origin Server/usernamecache.json
+Minecraft Origin Server/usercache.json
