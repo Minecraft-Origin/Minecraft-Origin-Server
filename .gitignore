@@ -13,3 +13,10 @@ Minecraft Origin Server/usernamecache.json
 Minecraft Origin Server/usercache.json
 Minecraft Origin Server/config/forge.cfg
 Minecraft Origin Server/config/forgeChunkLoading.cfg
+Minecraft Origin Server/nucleus/
+Minecraft Origin Server/config/nucleus/rules.txt
+Minecraft Origin Server/config/nucleus/info/links.txt
+Minecraft Origin Server/config/nucleus/info/info.txt
+Minecraft Origin Server/config/nucleus/info/colors.txt
+Minecraft Origin Server/config/nucleus/motd.txt
+Minecraft Origin Server/config/nucleus/*.tmp
