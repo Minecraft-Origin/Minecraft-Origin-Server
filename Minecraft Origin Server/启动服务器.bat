@@ -9,7 +9,7 @@ title Minecraft Origin Server
 @echo.
 @echo.                   服务器正在启动中,请稍等……
 @echo. -----------------------------------------------------------------
-java -Xms1024M -Xmx1024M -jar forge-1.12.2-14.23.5.2768-universal.jar
+java -Xms1024M -Xmx1024M -jar forge-1.12.2-14.23.5.2847-universal.jar
 @echo.
 @echo. -----------------------------------------------------------------
 @echo.               Minecraft --- 玩家数据保存完毕 已关服
