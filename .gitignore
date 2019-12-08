@@ -11,3 +11,5 @@ Minecraft Origin Server/ops.json
 Minecraft Origin Server/whitelist.json
 Minecraft Origin Server/usernamecache.json
 Minecraft Origin Server/usercache.json
+Minecraft Origin Server/config/forge.cfg
+Minecraft Origin Server/config/forgeChunkLoading.cfg
