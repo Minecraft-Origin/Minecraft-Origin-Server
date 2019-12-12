@@ -1,0 +1,21 @@
+{
+  "name": "default",
+  "permissions": [
+    {
+      "permission": "nucleus.home.*",
+      "value": true
+    },
+    {
+      "permission": "nucleus.warp.*",
+      "value": true
+    },
+    {
+      "permission": "nucleus.teleport.*",
+      "value": true
+    },
+    {
+      "permission": "nucleus.back.*",
+      "value": true
+    } 
+  ]
+}
