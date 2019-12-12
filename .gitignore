@@ -20,3 +20,9 @@ Minecraft Origin Server/config/nucleus/info/info.txt
 Minecraft Origin Server/config/nucleus/info/colors.txt
 Minecraft Origin Server/config/nucleus/motd.txt
 Minecraft Origin Server/config/nucleus/*.tmp
+Minecraft Origin Server/luckperms/lib/
+Minecraft Origin Server/luckperms/json-storage/actions.txt
+Minecraft Origin Server/luckperms/json-storage/uuidcache.txt
+Minecraft Origin Server/luckperms/json-storage/users/
+Minecraft Origin Server/luckperms/json-storage/tracks/
+Minecraft Origin Server/luckperms/contexts.json
