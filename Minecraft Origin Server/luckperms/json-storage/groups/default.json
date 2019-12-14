@@ -2,6 +2,10 @@
   "name": "default",
   "permissions": [
     {
+      "permission": "nucleus.spawn.base",
+      "value": true
+    },
+    {
       "permission": "nucleus.home.*",
       "value": true
     },
