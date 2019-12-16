@@ -38,3 +38,4 @@ Minecraft Origin Server/config/NEI/
 Minecraft Origin Server/config/JustEnoughCharacters.cfg
 Minecraft Origin Server/config/serverGlobalConfig.properties
 Minecraft Origin Server/config/smoothfont/
+Minecraft Origin Server/mods/*[ CLIENT ]*.jar
