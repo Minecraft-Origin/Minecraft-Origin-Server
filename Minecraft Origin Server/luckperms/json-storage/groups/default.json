@@ -20,6 +20,10 @@
     {
       "permission": "nucleus.back.*",
       "value": true
-    } 
+    },
+    {
+      "permission": "sponge.command.help",
+      "value": true
+    }
   ]
 }
