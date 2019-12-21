@@ -64,7 +64,7 @@ events.onPlayerLoggedIn(
                     }
                     # 保护
                     if( index > 4 ){
-                        item.addEnchantment( <enchantment:minecraft:protection> * 2 );
+                        item.addEnchantment( <enchantment:minecraft:protection> * 3 );
                     }
                 }
 
