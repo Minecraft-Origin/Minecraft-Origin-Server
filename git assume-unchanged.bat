@@ -3,3 +3,4 @@ git update-index --assume-unchanged "Minecraft Origin Server/config/nucleus/comm
 git update-index --assume-unchanged "Minecraft Origin Server/config/nucleus/main.conf"
 git update-index --assume-unchanged "Minecraft Origin Server/config/flexiblelogin/config.conf"
 git update-index --assume-unchanged "Minecraft Origin Server/config/flexiblelogin/locale.conf"
+git update-index --assume-unchanged "Minecraft Origin Server/config/reccomplex.cfg"
