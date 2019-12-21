@@ -35,3 +35,9 @@ Minecraft Origin Server/config/JustEnoughCharacters.cfg
 Minecraft Origin Server/config/serverGlobalConfig.properties
 Minecraft Origin Server/config/smoothfont/
 Minecraft Origin Server/mods/*CLIENT*.jar
+Minecraft Origin Server/config/fastbench.cfg
+Minecraft Origin Server/config/FlatBedrock/
+Minecraft Origin Server/config/oreexcavation_groups.json
+Minecraft Origin Server/config/oreexcavation_overrides.json
+Minecraft Origin Server/crafttweaker.log
+Minecraft Origin Server/mods/memory_repo/
