@@ -24,6 +24,10 @@
     {
       "permission": "sponge.command.help",
       "value": true
+    },
+    {
+      "permission": "minecraft.command.gamerule",
+      "value": true
     }
   ]
 }
