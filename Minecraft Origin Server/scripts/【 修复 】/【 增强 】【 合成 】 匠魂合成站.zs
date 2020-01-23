@@ -1,1 +1,0 @@
-<tconstruct:tooltables:0>.displayName = "合成站 ( 不支持超过 64 的物品堆叠, 合成时有 BUG, 请勿使用 )";
