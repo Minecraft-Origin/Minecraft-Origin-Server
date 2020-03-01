@@ -40,3 +40,10 @@ Minecraft Origin Server/config/oreexcavation_groups.json
 Minecraft Origin Server/config/oreexcavation_overrides.json
 Minecraft Origin Server/crafttweaker.log
 Minecraft Origin Server/mods/memory_repo/
+Minecraft Origin Server/config/journeymap_server.cfg
+Minecraft Origin Server/config/journeymap_ModInfo.cfg
+Minecraft Origin Server/journeymap/*
+Minecraft Origin Server/journeymap/server/5.7/*
+!Minecraft Origin Server/journeymap/config/
+!Minecraft Origin Server/journeymap/server/
+!Minecraft Origin Server/journeymap/server/5.7/journeymap.server.global.config
