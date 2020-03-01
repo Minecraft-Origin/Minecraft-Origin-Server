@@ -2,9 +2,7 @@ Minecraft Origin Server/logs
 Minecraft Origin Server/crash-reports
 Minecraft Origin Server/world
 Minecraft Origin Server/.mixin.out
-
 Minecraft Origin Server/config/sponge
-
 Minecraft Origin Server/banned-ips.json
 Minecraft Origin Server/banned-players.json
 Minecraft Origin Server/ops.json
@@ -34,3 +32,10 @@ Minecraft Origin Server/config/JustEnoughCharacters.cfg
 Minecraft Origin Server/config/serverGlobalConfig.properties
 Minecraft Origin Server/config/smoothfont/
 Minecraft Origin Server/mods/*CLIENT*.jar
+Minecraft Origin Server/config/journeymap_server.cfg
+Minecraft Origin Server/config/journeymap_ModInfo.cfg
+Minecraft Origin Server/journeymap/*
+Minecraft Origin Server/journeymap/server/5.7/*
+!Minecraft Origin Server/journeymap/config/
+!Minecraft Origin Server/journeymap/server/
+!Minecraft Origin Server/journeymap/server/5.7/journeymap.server.global.config
