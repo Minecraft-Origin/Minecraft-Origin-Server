@@ -5,3 +5,4 @@ git update-index --assume-unchanged "Minecraft Origin Server/config/flexiblelogi
 git update-index --assume-unchanged "Minecraft Origin Server/config/flexiblelogin/locale.conf"
 git update-index --assume-unchanged "Minecraft Origin Server/config/reccomplex.cfg"
 git update-index --assume-unchanged "Minecraft Origin Server/config/battletowers.cfg"
+git update-index --assume-unchanged "Minecraft Origin Server/config/cyclicmagic.cfg"
